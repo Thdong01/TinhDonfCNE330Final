@@ -143,7 +143,7 @@ btn_next = ctk.CTkButton(btn_frame, text=">", command=next_song, width=50,
 btn_next.pack(side=tk.LEFT, padx=5)
 
 # Create a progress bar to indicate the current song's progress
-pbar = Progressbar(window, length=600, mode="determinate")
+pbar = Progressbar(window, length=725, mode="determinate")
 pbar.pack(pady=10)
 
 window.mainloop()
