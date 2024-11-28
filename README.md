@@ -1,5 +1,4 @@
 #Python MP3 Music Player#
-This is an MP3 Player running on Python.
 
 ## Getting Started ##
 This will prepare you for setting up your MP3 Player and Python.
