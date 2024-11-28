@@ -1,4 +1,4 @@
-#Python MP3 Music Player
+#Python MP3 Music Player#
 This is an MP3 Player running on Python.
 
 ## Getting Started ##
