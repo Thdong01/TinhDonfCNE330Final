@@ -12,7 +12,7 @@ The code requires Python and 3 Python Modules. Pycharm IDE is recommended, but n
 
 
 ## Running ##
-1. Start the server by running mp3_player.py
+1. Start by running mp3_player.py in your choice of IDE
 2. Once the MP3 Player is opened, click the 'Select Folder' button and browse your music folder.
 3. Note: The folder should only contain .mp3 files and no sub-folders
 4. After loading the files into your player, click on the song name and click the 'Play' button. Click the '<' and '>' buttons to skip a previous song.
